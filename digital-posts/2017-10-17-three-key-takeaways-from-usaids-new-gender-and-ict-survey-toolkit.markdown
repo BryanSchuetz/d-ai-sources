@@ -1,0 +1,25 @@
+---
+title: Three Key Takeaways from USAID’s New Gender and ICT Survey Toolkit
+date: 2017-10-17 09:30:00 -04:00
+tags:
+- Digital Insights
+- Data
+Author: Kristen Roggemann
+social-image: "/uploads/resize%20gender.png"
+thumbnail: "/uploads/resize%20gender.png"
+---
+
+This past week USAID’s Global Development Lab and mStar project released the [Gender and ICT Survey Toolkit](https://www.usaid.gov/sites/default/files/documents/15396/Gender_and_ICT_Toolkit.pdf). In an informative webinar (you can listen to the recording [here](http://solutionscenter.nethope.org/webinars/view/introducing-usaids-gender-and-ict-toolkit)), the team that produced the report discussed both the content and the context surrounding the genesis of the toolkit. I tuned in and spent the majority of the time silently cheering, thrilled to hear USAID promoting research tactics and information needs that align with what we on DAI’s ICT team are doing with our [Digital Insights](https://dai-global-digital.com/tags/?tag=digital-insights) work. In between cheers, I feverishly took notes and captured these three key takeaways.
+
+<!--more-->
+
+![USAID_Gender-and-ICT-toolkit_Cover.png](/uploads/USAID_Gender-and-ICT-toolkit_Cover.png)
+
+**1. Qualitative *and* Quantitative Data are Equally Important**
+Long the redheaded stepchild of data in the international development world, qualitative data plays an especially important role when it comes to design work for digital initiatives—ticking a “uses Facebook” box on a survey doesn’t get at the ‘why’ and ‘how’ this usage are key elements of user-centered, high-impact design work. At DAI, we use our surveys as a conversational entry point to get at the deep, ethnographic-style qualitative data that gives us design insights: For example, that the young rural women in Jordan we were working with [preferred WhatsApp ](https://dai-global-digital.com/for-the-love-of-facebook-consumer-insights-from-jordan.html)because of the privacy and ability to share siloed pieces of information with different friend and family groups. Privacy and control are significant drivers behind our outreach campaign design towards women. By both stressing the value of qualitative and quantitative data, and producing an excellent toolkit that walks the user through both, the USAID Digital Inclusion team put a significant stake in the ground to direct the ICT4D community towards a more user-centered and design-oriented approach to digital development.
+
+**2. Local Data Collection has an Important Role in ICT4D**
+One of the main pushbacks we get on Digital Insights is that we don’t seek out statistically significant, national-level sample populations. We don’t do this for a reason: we seek targeted, community-level insights into the specific populations we will be designing digital services for. National-level, statistically significant surveys are important and useful to paint broad pictures of trends, but we’ve *never* found, in more than 13 countries we’ve done Digital Insights research in, that the national-level data is even close to reflective of ICT access and usage rates in the populations we’re researching. If we based our design choices off of national surveys, we’d be designing the wrong stuff—and doing a real disservice to the population we’re trying to help. Technology access and usage habits move far too fast, and are far too distinct, to be accurately captured by large-scale surveys; the nimble approach of small data collection is hugely valuable when it comes to responsibly informing digital design.
+
+**3. Pushing Beyond What to Why is Key**
+While this point was also reflected in the first takeaway above, it really can’t be overstated: You’re not going to get the data you need without pushing beyond the survey questions to engage in deeper conversations with your informants about the why behind their technology choices. I often cite the following example to prove this point: My colleague Adam was doing [Digital Insights research in rural Honduras](https://dai-global-digital.com/honduras-digital-insights.html). He repeatedly noted that the folks he was talking to (often, having a two-hour conversation in their kitchens) didn’t bring their cellphones out with them during the day. While this was crucial to know for digital design—it would influence timing of messages, response rates, content choices, and scheduling, etc.—he didn’t yet know the reason why they left their phones behind. When pushing the conversation to dig into this point, he was able to uncover that the Hondurans in this community didn’t feel it was safe to bring their phones out of the house—in fact, he learned that phone habits could be a fascinating data point around citizen perception of civil security. We were able to integrate this innovative data triangulation into our monitoring and evaluation plan, something that would never have happened if Adam hadn’t worked hard to get at the why.

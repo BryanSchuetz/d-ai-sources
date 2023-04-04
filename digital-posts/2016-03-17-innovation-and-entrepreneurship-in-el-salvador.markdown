@@ -1,0 +1,41 @@
+---
+title: Innovation and Entrepreneurship in El Salvador
+date: 2016-03-17 11:00:00 -04:00
+tags:
+- Innovation
+- El Salvador
+Author: Adam Fivenson
+---
+
+A recent visit to El Salvador to help DAI launch the new [USAID Employment Training Project](http://dai.com/our-work/projects/usaidel-salvador-formaci%C3%B3n-para-el-empleo-usaid-employment-training-project) made it clear that El Salvador’s budding technology, innovation, and entrepreneurship community is poised and ready to help solve the country’s youth unemployment problems. Below are brief bios of five rockstars of the Salvadoran scene who I was lucky enough to meet while there. Please email us (digital@dai.com) if you would like an introduction!
+
+
+<!--more-->
+
+
+*Note: This is the second in a series of two blog posts that I wrote about my time in El Salvador. Find the first post [here](http://dai-global-digital.com/2016/01/06/digital-insights-el-salvador-mobile-adoption.html).*
+
+First, a bit of background on the information and communications technology (ICT) industry in El Salvador: Internet penetration in the country has advanced rapidly over the last 15 years. With a penetration rate of 1.2 percent in 2000, the [World Bank](http://databank.worldbank.org/) cites El Salvador’s 2014 rate as 29.7 percent. The World Bank defines Internet users as “individuals who have used the Internet (from any location) in the last 12 months. Internet can be used via a computer, mobile phone, personal digital assistant, games machine, digital TV, etc.” The rate of 29.7 percent qualifies El Salvador as the most connected country among its immediate neighbors (Guatemala, 23.4 percent; Honduras, 19.08 percent; Nicaragua, 17.6 percent) but firmly below the rest of Central America (Costa Rica, 49.41 percent; Panama 44.92 percent; Mexico 44.39 percent; Belize, 38.7 percent). See [this map ](https://afivenson.cartodb.com/viz/5b4b1ba4-be67-11e5-8eeb-0e98b61680bf/public_map) for a visual comparison.
+
+Mobile phones have also grown in popularity as technology has become cheaper and more widely available. According to [BuddeComm](http://www.budde.com.au/Research/El-Salvador-Telecoms-Mobile-Broadband-and-Digital-Media-Statistics-and-Analyses.html), El Salvador’s mobile penetration rate reached 146 percent in 2015, meaning that there are 1.46 mobile each person in El Salvador. Mobiles are ubiquitous throughout the country, in both urban and rural areas.
+
+Given the high levels of connectivity in El Salvador, new technologies have the potential to create jobs, improve the efficiency of the labor market, and fuel the growth of tech-based innovation in the country. The innovators featured below are working with young people to help them use technology to improve their own lives, and in many cases, the lives of others.
+
+1. **Iris Palma of CasaTIC**
+Iris is Executive Director of [CasaTIC](https://www.facebook.com/casatic)—the Salvadoran Chamber of Information and Communications Technologies—and a leader in the [Salvadoran open data community](http://www.datoselsalvador.org/). She was a principal contributor to the government’s new open data policy and strong advocate for the recent adoption of electronic signatures. Iris and CasaTIC are based at [Hub 170](https://www.facebook.com/Hub170/), a [co-creation space](http://www.psfk.com/2013/02/co-creation-spaces-future-of-work.html) that hosts a variety of IT startups and businesses including [Yupi](http://getyupi.com/), the Salvadoran version of Uber. CasaTIC is creating a cluster of seven local universities to focus on technology and innovation, providing scholarships for young students to receive tech training and education, and teaching young Salvadoran mothers to code from home while raising children.
+
+2. **Carlos Moreno of [Systemita](http://www.systemita.com/)**
+Some call Carlos the “father” of El Salvador’s innovation community, thanks to his contributions to recent hackathons and innovation events in San Salvador. He’s an [app developer ](http://www.elsalvador.com/articulo/entretenimiento/aplicaciones-made-salvador-37956) himself, passionate about creating opportunities for young Salvadorans, and has a strong sense of how they could be integrated into international IT labor markets. Carlos has done coding work for Oracle in various countries around the region, and highlighted the shortage of quality computer programmers, and sees developing Salvadoran talent in the programming space as a chance to create opportunity for at-risk young people at home. According to Carlos, Salvadorans would have a hard time competing with other outsourcing hubs (like India) on cost alone, but with the proper quality control in place, young Salvadorans can compete in international markets as coders or web designers with only a year of training.
+
+3. **Ulises Gómez Boronat & Patricia Tejero Toribio of INSERT**
+Ulises and Patricia run [INSERT](https://www.facebook.com/insert.elsalvador/) , a nongovernmental organization focused on entrepreneurship and innovation that operates YAWAL, a co-creation space in the Spanish Cultural Mission’s [Casa Tomada](http://lacasatomadasv.com/2015/01/14/bisuteria-con-reciclaje-como-arte/). Ulises and Patricia have been involved with various hackathons in San Salvador and focus on developing talent and utilizing La Casa Tomada as an incubation hub for small businesses. INSERT runs a variety of innovation- and design-related workshops and discussions at La Casa Tomada and is at the center of the innovation community in San Salvador. Ulises, for example, runs a series of [entrepreneurship-themed events ](https://www.facebook.com/IDWEEK.SV/posts/454472058078933)under the banner of the to the global [Fail Fest](http://failfest.us/) movement.
+
+4. **Nahiely Mendoza**
+Nehiely supports entrepreneurship, innovation, the arts, and professional formation in Las Palmas, an informal community in central San Salvador. Her work is supported by the Spanish Cultural Mission under the title [Cultura entre Tod@s para Construir Nuevos Mundos ](http://lacasatomadasv.com/2015/01/14/bisuteria-con-reciclaje-como-arte/#more-617)or “Culture Builds New Worlds for All.” Through her [VacilArte](http://lacasatomadasv.com/2014/11/04/vacilarte-directos-al-corazon/), project she’s been working with a young entrepreneurs from Las Palmas to help them to develop new small business concepts, find seed capital for their ideas, and engage in positive works in their community.
+
+5. **Mario Juarez of [Don Bosco University](http://www.udb.edu.sv/udb/index.php)**
+Mario is the Dean of Technology Studies at Don Bosco University, which is home to MOSAIC, the only university degree mobile app design program in the country. The lab has 26 seats and was launched as a partnership between Don Bosco, GIZ, and a German technology company. The program is in its second year of operation, and has grown rapidly; after 25 students enrolled in program’s first class, 75 have enrolled in its second. Students have the option to take app design as a degree course, requiring them to take a full liberal arts course load, or as an individual certificate which focuses on the technical aspects of app design. The lab also offers courses in Oracle programming, quality control, and computer engineering. Roughly 75 percent of students at Don Bosco University are from [Soyapango](https://en.wikipedia.org/wiki/Soyapango), the neighborhood immediately adjacent; the university provides free, safe transport for students from all parts of San Salvador via private bus service.
+
+The availability of the Internet, mobile phones, and other new technologies has opened the space for a new age of rapid and efficient personal and professional communication in El Salvador. In this new El Salvador, those with tech skills such as coding, web design, and mobile app development will find opportunities. Through the Employment Training Project, DAI is partnering with USAID in El Salvador to ensure that Salvadoran youth are able to capitalize on their potential and take advantage of the opportunity before them.
+
+Eager to hear more? Want to share your thoughts on similar thought leaders in a different country?  See a potential for collaboration?  Please share in the comments below, or Tweet us at @DAIGlobal with the #DigitalDAI hashtag!

@@ -1,0 +1,45 @@
+---
+title: 'Looking Ahead: What We’re Thinking About in 2020'
+date: 2020-01-02 06:00:00 -05:00
+tags:
+- Entrepreneurship
+- Trust
+- Innovation
+- Data
+- Think Piece
+Author: Krista Baptista
+social-image: "/uploads/2020.png"
+thumbnail: "/uploads/2020.png"
+---
+
+In our last post from 2019, we reviewed our top posts from the past year. The most-read articles covered a myriad of digital development topics—bridging the [digital gender divide](https://dai-global-digital.com/lessons-learned-from-cambodia.html), [visualizing remote sense data](https://dai-global-digital.com/visualizing-remotely-sensed-data-true-color-and-false-color.html), and insights into the [digital lives of Kabul’s residents](https://dai-global-digital.com/citizen-centered-design-and-frontier-insights-in-kabul-municipality.html) to design an open source transparency and citizen participation app. Over the last few years, we’ve seen a sea change in how digital tools and services impact people’s lives globally. Expect 2020 to be no different.
+
+As we get ready for the new decade, here are some topics we’re thinking about when it comes to digital development.
+
+<!--more-->
+
+![2020.png](/uploads/2020.png)
+
+## Future of Work
+
+The conversation about the future of work continues to accelerate in frequency and range of topics. Issues of automation through machine learning and artificial intelligence, the readiness of citizens (and governments) to benefit from technological advance and the challenges around inclusion, cyber, and trust that will need to be tackled present unanswered questions for those of us working in the digital space. Through DAI’s partnership with [Skilllab](https://dai-global-digital.com/partnership-with-award-winning-tech-startup-skilllab.html), we are supporting one solution that aims to create a more personalized and data-driven approach to career development and job placement, especially for marginalized populations. Using tailored artificial intelligence algorithms, it profiles the skills of marginalized people in the labor force and matches them with career and education opportunities that align with their abilities. We believe that solutions like this will be a marker of this decade as one of many solutions to the globally changing labor markets.
+
+## The Future of Innovation Ecosystems
+
+The future of work—particularly in emerging markets—links to [entrepreneurship](https://dai-global-digital.com/10-trends-changing-entrepreneurship-ecosystems.html) and innovation ecosystems. Both the private sector and donors have a stake in cultivating talent and entrepreneurship. Recently, we highlighted trends in entrepreneurship and how innovation can help build superstars of the future in [Cambodia](https://dai-global-digital.com/cambodia.html). As we look to build an inclusive digital future, digital expertise is a critical tool to accelerate and incubate the entrepreneurs, who will develop the job markets of tomorrow.
+
+## Cyber and Trust
+
+The world is becoming increasingly interconnected and reliant on digital tools for reliable access to services. At the same time, the number of incidents of disrupted digital connectivity, personal data breaches, or misuse of digital tools by state and nonstate actors continues to grow. For us in the digital development community, this poses a major challenge. How do we strike a balance between promoting digital access and not exposing the people we are working with to increased digital risk? In mid-2019, we wrote a blog making the case that [user education](https://dai-global-digital.com/the-missing-digital-principle-educate-the-user.html) should be part of any digital programming. That way we simultaneously build people’s digital literacy and also their awareness to what it means to share data online, how to critically engage with information shared digitally, how to safeguard digital accounts, and how to protect their privacy online. We’ve already seen examples of how politics can manifest online. As we move towards a more interconnected world built on the backbone of technologies such as [5G](https://dai-global-digital.com/what-makes-this-wireless-technology-5g-different-than-all-other-wireless-technologies.html), we anticipate more conversations and debates internationally, nationally, and locally on how and by whom the digital space should be governed.
+
+## Data For…
+
+Data is everywhere, both in conversation and in practice. This is not new, as economists, agronomists, epidemiologists and health practitioners, statisticians, and political scientists (just to name a few) have long used data to guide research and manage complex workflows. What is new—and what we expect to see in 2020 and beyond—is the continued proliferation of once expensive and technically complex operations into the hands of everyone, thanks in part to improvements in mobile, desktop, web-based tools. Organizations are getting better at capturing and organizing their data, partially due to improvements in both open source and proprietary mobile data collection technologies, but also due to the embrace of cloud computing for data organization and storage. The major cloud providers, including but not limited to Amazon, Google, IBM, and Microsoft, increasingly offer flexible, API-driven, data management solutions, that make it easier to not only store your data, but leverage machine technologies for everything from document classification to predictive analytics, and to connect your analytical tools of choice to develop comprehensive dashboards for data exploration.
+
+At the Center for Digital Acceleration, we actively test and use as many of these tools as we can, and leverage a combination of open source and proprietary technologies to support our analytical needs. This past summer we wrote [about](https://dai-global-digital.com/open-source-vs-proprietary-data-management-stack-which-one-is-right-for-your-team.html) the common workflows associated with DAI projects, which include the need to collect and manage data, draw insights, manage knowledge, and discretely share products and learnings with specific people, and discussed some of the pros and cons of building versus buying technology solutions. Regardless of what decision your organization makes, we expect to see continued improvements in both open source and proprietary service offering, and will share lessons we’ve learned along the way.
+
+## Digital Transformation
+
+Digital transformation is not a new topic. But as digital development practitioners, we understand digital transformation differently than other market players. Digital transformation, for us, is not only about an organization or business’s digital assets or use of those assets. Rather, it’s about looking at the contexts in which we work with more systematically. In many countries digital is advancing very quickly. While this is happening, governments and civil society organizations are consistently playing catch up in an effort to understand how to leverage these digital assets effectively or how best to continue to advocate for different types of rights in an increasingly digitized world. As such, we anticipate that 2020 will be the first of many years this decade when as digital development practitioners, we’ll have to think more critically about how strengthen civil society groups to more actively participate in digital issues of the day, while pairing that with digitally empowered governments. 
+
+Learning from established practices in the private sector could inform how we approach digital transformation within development programming. Today, we are seeing digital health reaching an inflection point where systems are interoperable, more integrated, and available at affordable costs—thus presenting the potential to transform the sector in the near term. As a result, the digital health sector might also offer best practices to apply to other areas of importance in development such as governance, economic growth, and agriculture.

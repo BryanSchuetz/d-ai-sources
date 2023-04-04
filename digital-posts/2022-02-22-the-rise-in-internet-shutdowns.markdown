@@ -1,0 +1,27 @@
+---
+title: The Rise in Internet Shutdowns
+date: 2022-02-22 17:12:00 -05:00
+tags:
+- Digital Repression
+- digital justice
+- Governance
+Author: "[Connor Mackenzie](https://www.linkedin.com/in/connor-mackenzie/)"
+social-image: "/uploads/nastya-dulhiier-OKOOGO578eo-unsplash.jpg"
+thumbnail: "/uploads/nastya-dulhiier-OKOOGO578eo-unsplash.jpg"
+---
+
+Recently, a snowstorm knocked out the internet connection at my apartment. While I could still communicate with others from my cellphone and use 4G to check Twitter for outage updates, the temporary inconvenience highlighted how dependent my life is on reliable internet access and how vulnerable our day-to-day lives are when that access is unexpectedly taken away. For many individuals, especially those in countries with authoritarian governments, unanticipated internet shutdowns have become increasingly common. 
+
+The technical [definition](https://www.trtworld.com/magazine/explained-how-do-internet-shutdowns-work-44212) for an internet shutdown is when a government or nonstate actor intentionally disrupts access to the internet or certain platforms for a specific population or entire location to exert control over information. In 2020, Access Now's Shutdown Tracker Optimization Project collected [information](https://www.accessnow.org/keepiton/) on 155 reported instances of an internet shutdown, a significant increase from the 56 reported instances in 2016. As internet access has become more ingrained in a society's ability to communicate, organize, and function, political leaders have increasingly leveraged their control of this resource to stifle dissent and reassert control.
+
+<!--more-->
+
+![nastya-dulhiier-OKOOGO578eo-unsplash.jpg](/uploads/nastya-dulhiier-OKOOGO578eo-unsplash.jpg)`Photo: Nastya Dulhiier, Unsplash.`
+
+Unsurprisingly, there are many ways to disrupt or shut down the internet. For example, there are laws in certain countries that provide the government with emergency powers to shut down the internet during a national crisis or security incident by forcing internet service providers (ISPs) to cease activity or risk losing their business license. To illustrate, following nationwide protests over the price of fuel and general displeasure with the government, Kazakhstan shut the country's entire internet down for eight days. Using a 2017 telecommunications law as justification, the Ministry of Digital Development, Innovation, and Aerospace Industry ordered ISPs to stop providing internet services as a means of "[ensuring antiterrorist and public security.](https://www.nytimes.com/2022/02/18/technology/kazakhstan-internet-russia-ukraine.html)" These laws—[denounced](https://news.un.org/en/story/2021/07/1095142) by the United Nations Human Rights Council for violating freedoms of speech, assembly, and association—take advantage of vague clauses surrounding national security and can be used to restrict internet access during protests, elections, or other moments of political instability. These laws are also deliberately designed to be used for indefinite periods, as was the [case](https://www.accessnow.org/who-is-shutting-down-the-internet-in-2021/) in Jammu and Kashmir where the longest recorded internet shutdown in a democracy occurred from August 4, 2019, to February 5, 2021.
+
+Although countrywide internet shutdowns gain the most attention globally, smaller-scale internet disruptions that render certain parts of the internet unusable—such as throttling (disrupting internet bandwidth for a specific website or platform) or denial-of-service attacks—are just as effective in reasserting control over a specific population. For example, following prolonged throttling of its platform in Vietnam by [state-owned ISPs](https://www.rollingstone.com/politics/politics-news/facebook-vietnam-censorship-1247323/), Facebook agreed to comply with local regulations and block access to certain anti-government content, curtailing activists' ability to speak out digitally about government corruption.
+
+In addition to the political, social, and human rights costs related to internet shutdowns, the economic consequences can be severe. A 2016 [report](https://www2.deloitte.com/global/en/pages/technology-media-and-telecommunications/articles/the-economic-impact-of-disruptions-to-internet-connectivity-report-for-facebook.html) by Deloitte estimated that for a country with a developed internet, the per-day costs of a shutdown would be on average $23.6 million per 10 million people. A country with a less developed internet would experience an average loss of $6.6 million per day. Small businesses are also negatively impacted by unexpected internet shutdowns due to their inability to communicate with suppliers and customers, process e-payments, and market their companies.
+
+Protecting populations from internet shutdowns and preserving the freedom of the internet is a tall task that requires work from multiple actors in the digital ecosystem. For instance, a [coalition](https://www.accessnow.org/keepiton/) led by the AccessNow organization offers resources to journalists, election observers, and other activists on identifying, reporting and circumnavigating an internet shutdown through a virtual private network. Western governments have also expressed stronger condemnations publicly following internet disruptions in certain areas. But ultimately, preserving a free internet with uninterrupted connections will come from focused efforts to preserve democratic norms and human rights.

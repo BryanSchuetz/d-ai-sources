@@ -1,0 +1,49 @@
+---
+title: 'Looking Ahead: What We’re Thinking About in 2021'
+date: 2021-01-07 06:00:00 -05:00
+tags:
+- Data
+- Machine Learning
+- Think Piece
+- Cybersecurity
+- Disinformation
+Author: Krista Baptista
+social-image: "/uploads/2021.jpg"
+thumbnail: "/uploads/2021.jpg"
+---
+
+As we (happily) say farewell to 2020, we at DAI’s Center for Digital Acceleration (CDA) feel stronger and more optimistic than ever before. If 2020 taught us anything, it is that adaptation is paramount. The events of the last year have changed almost every aspect of how we think, work, and live, and we would be naïve to think that our digital toolkit won’t change right along with us. Therefore, heading into 2021, we have high ambitions to continue to analyze and elevate inclusive, ethical, human-focused digital products and services that can help us rise to the occasion and address some of the deeply complex issues that 2020 unveiled. Below are seven areas we look forward to exploring further throughout the year—so stay tuned and check back often.
+
+<!--more-->
+
+![2021.jpg](/uploads/2021.jpg)
+
+## Digital Innovation as the Foundation of Business Resilience and Growth
+
+The daily uncertainty of 2020 spurred enterprises across the globe—including DAI—to rapidly adopt new, digitally enabled ways of working and jump (with both feet) into the digital economy. As businesses continue their quests to become more agile in 2021, we recognize that digital skills and platforms will remain critical to effective operations and form the foundation of enterprise growth and risk mitigation strategies. Our thinking strongly aligns with those of authors such as Alex Lazarow whose work on innovation in [emerging markets](https://hbr.org/2020/10/startups-its-time-to-think-like-camels-not-unicorns) reflects how we currently support digital entrepreneurs. Whether applying new digital transformation strategies or introducing frugal [innovation approaches](https://ssir.org/articles/entry/frugal_innovation_for_todays_and_tomorrows_crises), everything from e-commerce to digital procurement platforms has the potential to accelerate growth for small and medium enterprises (SMEs). As our knowledge of emerging markets expands through DAI’s acquisition of [Magister,](https://www.dai.com/news/dai-magister-the-leading-capital-advisor-and-investment-bank-for-international-and-emerging-markets) new opportunities to leverage our digital expertise in support of SMEs and [entrepreneurs](https://dai-global-developments.com/articles/commercializing-agricultural-innovations-in-the-age-of-covid-19) will shape our thinking and operating in 2021.
+
+## Big Data and Advanced Analytics
+
+According to Eric Schmidt, former CEO of Google, we now produce more data every other day than we did from the inception of early civilization until the year 2003 combined. If used well, this data can unlock credit scores to increase financial inclusion, predict climate effects to help communities plan for a more resilient future, or even predict the next pandemic. If we can get the organization, processing, and analysis of big data for development right, the possibilities could transform the countries where we work. We are excited to see how this field further develops in the coming year. However, with this opportunity, the international development community must seriously consider its responsibility to introduce and institutionalize safe data collection practices and usher in sector-wide approaches to ensure we are obtaining consent and protecting the [right to privacy.](https://dai-global-digital.com/consent-to-data-processing-in-humanitarian-and-development-contexts-part-one.html)
+
+## Machine Learning (ML) and Artificial Intelligence (AI)
+
+If we characterize ML and AI as the integration, collection, and processing of data to allow for analytics that tell a story, then there is no doubt that international development needs more and better use cases for both. Applications for AI are being applied more frequently across multiple industries and we believe that in 2021 it will be our job to consider not only key use cases for ML and AI, but to directly confront the ethics concerns associated with these technologies, such as racial and other forms of bias. We have started [this journey](https://dai-global-digital.com/algorithms-in-development.html) at CDA and will continue to engage on this critical technology to ensure it can have a positive impact in our personal lives and in the development sector more broadly.
+
+## Internet of Things (IoT)
+
+Of all the “frontier technologies” for development, we believe IoT holds great potential for emerging markets. For years, our Maker Lab has been working with diverse local partners around the world to design and implement readable, locatable, and controllable devices via the internet—otherwise known as IoT. CDA’s [Maker Lab](https://www.dai.com/our-work/solutions/dai-maker-lab) works with experts on solutions like acoustic detection of illegal fishing, sonar stream gauges for flood early warning, and water system management for small utilities, and will continue to identify new opportunities to develop cost-effective smart devices for a range of development solutions. As the basic enabling technologies of IoT become ever more accessible in the emerging markets where we work, we expect to deepen that portfolio of IoT devices, whether produced in quantities a nongovernmental organization, small business, or government partner can fabricate or at mass manufacturing scale.
+
+## Infrastructure Cybersecurity
+
+We have been focused on cybersecurity for a while now and it is steadily joining the drumbeat of digital priorities—especially given the [headlines in the United States these days](https://thehill.com/policy/cybersecurity/532756-us-intel-agencies-blame-russia-for-massive-solarwinds-hack). In the past, we have worked with diverse groups, from everyday internet users to ministry officials, to prepare them for the next wave of cyber vulnerabilities and attacks. While CDA is actively engaged in thinking about ways to increase cyber hygiene and digital literacy, in 2021 we will adjust our focus to sharing knowledge and best practices for cybersecurity as it relates to critical infrastructure. While one may see how their daily life has been impacted by digital technology, what they may not be aware of is how sectors key to the proper functioning of their economy such as energy, transportation, health, and finance, have digitalized over the years, becoming increasingly interconnected—and vulnerable. Over the coming year, we look forward to promoting cybersecurity as a critical aspect of infrastructure digitalization, especially as forthcoming COVID-19 vaccine rollouts increase the risk of cyberthreats against hospitals and medical facilities.
+
+## Mis- and Disinformation
+
+Whether it was false information about cures for COVID-19 circulating on WhatsApp or misleading articles gaining traction in the runup to the U.S. election, the challenges presented by mis- and disinformation seemed to come to a head in 2020. While social media companies ramped up efforts to counter these online threats (for example, Twitter introducing labels and warning messages to disrupt disinformation campaigns on [its platform](https://blog.twitter.com/en_us/topics/product/2020/updating-our-approach-to-misleading-information.html)), individual and state-sponsored malign actors have continued to adapt, using bots and demographic information to target specific populations with influence campaigns. Though government and citizen awareness of mis- and disinformation seems to be increasing, in 2021 we will ramp up our efforts to identify and share the best strategies to counter this ongoing crisis and support civil society organizations, entrepreneurs, SMEs, as well as average internet users on how to discern the reliability of online content.
+
+## Making Digital Communication Meaningful
+
+Without belaboring the point, we had to do nearly everything online this year. From weekly meetings and brainstorming sessions to online shopping and doctor visits, 2020 saw our interaction through digital devices and platforms rise dramatically. While many of us may feel Zoom-ed out, digital communication will continue to be the norm in 2021. At CDA, we’re curious and passionate about making these interactions as meaningful as possible—and not just in terms of productivity. As we develop new dashboards, digital data collection tools, and e-learning platforms to help our teams continue to deliver quality work despite ongoing disruptions, we are keeping human connection at the heart of these efforts. While this may look like user-friendly interfaces or gamified online courses, meaningful digital communication also means inclusive digital communication. This could look like designing for low-bandwidth environments, incorporating multiple language settings into new or existing platforms, considering time zones differences when scheduling trainings, meetings, or courses, and respecting cultural norms around online communication. While CDA may not have all the answers on how to do this, we look forward to sharing what we’ve learned and what we discover throughout the year.
+
+So, there you have it. These are the themes on our minds as we take our first steps into a new year and a new world. If addressing all of these topics in just one year sounds ambitious, we accept that! Cleaning up what 2020 left behind will take plenty of energy and ambition from the digital development community. Given the opportunities these emerging areas present, we look to the future with cautious optimism and curiosity about what will happen next.

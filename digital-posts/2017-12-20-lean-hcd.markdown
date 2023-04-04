@@ -1,0 +1,50 @@
+---
+title: 'Lean HCD: How to HCD When You Can’t Travel to the Field'
+date: 2017-12-20 15:51:00 -05:00
+tags:
+- Human-centered design
+- Digital Insights
+Author: Adam Fivenson
+social-image: "/uploads/USE.jpeg"
+thumbnail: "/uploads/USE.jpeg"
+---
+
+Back in late 2015, I landed a unique design gig. The job came via [Nexos Locales](https://www.dai.com/our-work/projects/guatemala-nexos-locales), a USAID-funded, DAI-run project that works with municipalities around the Western Highlands of Guatemala to improve public financial management and citizen engagement. A newly elected mayor in the municipality of Chiantla wanted to open his finances to the public to close the space for corruption, and I was asked by the project to scope out the activity. 
+
+<!--more-->
+
+![USE.jpeg](/uploads/USE.jpeg)
+
+`An enumerator conducts design research in the Western Highlands of Guatemala.`
+
+## The Reality Stick
+
+After calling the mayor, I put together an activity plan to propose to the project’s leadership team. The plan focused on getting to know the people of Chiantla: how they seek and share information, how they use (or don’t use) technology, and what their expectations were of their municipality, and using that information to tailor a solution. Ever faithful to human-centered design (HCD) best practices, the plan featured:
+* Frequent, extended field visits to learn about the community and map stakeholders.
+* Multiple instances of creative empathy-building with citizens.
+* A fully engaged, multidisciplinary design team.
+* Multiple rounds of iterative development. 
+ 
+Sadly, my dream HCD activity plan met the sharp end of the reality stick; the activity wasn’t in the project’s work plan or budget, two significant hurdles for a project already managing 60 technical activities across 30 municipalities. On the other hand, the activity was grounded in local demand, directly aligned to Nexos Locales’ project objectives, and offered a chance for the project to ride the rising wave of mobile and smartphone adoption across the region. So, the leadership team gave a tentative green light, provided I could do it all—from design to development—on a shoestring and without travel. 
+
+## Two Roads Diverged...
+
+To agree would be a designer’s Faustian bargain: direct contact with end-users is a core tenet of human-centered design, and while attempting to design without it was possible, was it worth the risk? How could we empathize with the people of Chiantla if we couldn’t meet them? How could we make key decisions about the product without first-hand experience with users? Should I have said no and leave the project to spend their limited resources elsewhere? Enter "lean HCD," a term DAI uses to describe a flexible, locally-grounded approach to human-centered design. 
+
+## The Middle Road
+ 
+Like traditional HCD, lean HCD is all about developing empathy with users to gain an understanding of the political, economic, and social factors that guide behavior and decision-making, but with greater methodological flexibility and reliance on local experts, organizations, and institutions. Lean HCD focuses on: 
+* Balancing the resource restrictions of international development programming with best practices in empathy-based strategy and decision-making. 
+* Outsourcing key aspects of design research and product development to local firms and experts who are closer to users both physically and culturally. 
+* Recognizing the growth in connectivity and smartphone adoption by using messaging apps (e.g., WhatsApp, Facebook Messenger, Skype) to stay close to local players and run remote trainings. 
+* Generating collaboration between local stakeholders throughout the iteration and development of the solution.
+
+The focus on flexibility highlights the key distinction between the use of HCD in the donor-funded development space and HCD for the commercial sector: with donor agencies stretched for funding and proposal budgets stripped to the bone in an industry space that’s more competitive than ever, the incentive is to build in methodological flexibility while still creating empathy-based solutions that work. Lean HCD is how DAI bridges that gap. 
+
+## So What Did We Actually Do? 
+ 
+What did lean HCD look like in Guatemala? How did we get to know the people of Chiantla, gain insight into how they use technology, and come to understand their relationship with their municipality? How did we choose the platform, form, and function of the solution? What did we build? 
+
+Instead of giving our entire process the blog treatment, we wrote [Lean HCD: A Case Study in Human-Centered Design in the Highlands of Guatemala](http://www.dai.com/hcd.pdf), to detail what at each phase and why we did it. We hope it will be a useful guide for other development professionals who are tasked with designing ICT solutions for overseas development projects.
+
+*Have you tried your own version of lean HCD? What did you do? How did it go? Let us know!*

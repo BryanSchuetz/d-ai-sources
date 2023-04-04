@@ -1,0 +1,40 @@
+---
+title: 'Blockchain: Are We Beyond the Peak of The Hype Cycle?'
+date: 2021-08-13 06:00:00 -04:00
+tags:
+- Blockchain Series
+- Digital Identity
+- Digital Financial Services
+- Digital Inclusion
+Author: "[Connor MacKenzie](https://www.linkedin.com/in/connor-mackenzie/)"
+social-image: "/uploads/blockchain-3019120_1920.png"
+thumbnail: "/uploads/blockchain-3019120_1920.png"
+---
+
+A combination of mainstream media attention and Elon Musk's Twitter feed has reignited the public interest in distributed ledger technologies, commonly referred to as the blockchain. CDA is no stranger to this technology; check out our blog post on [blockchain](https://dai-global-digital.com/blockchain-for-development-part-1-understanding-the-tech.html) and how we've [applied these concepts in-house](https://dai-global-digital.com/getting-past-the-blockchain-hype-cycle.html). Blockchain-based applications leverage technology's ability to decrease transaction costs, maintain immutable records, and provide users with privacy.
+
+Over the last decade, international donors and the private sector have used blockchain across financial inclusion, digital government, and supply chain management. Recently, we revisited blockchain's role in these various technical areas to assess its [hype cycle](https://www.gartner.com/en/research/methodologies/gartner-hype-cycle) and long-term deployment sustainability.
+
+<!--more-->
+
+## Financial Inclusion
+
+As it aspires to make financial services more accessible to the planet's [1.7 billion unbanked](https://globalfindex.worldbank.org/sites/globalfindex/files/chapters/2017%20Findex%20full%20report_chapter2.pdf) individuals, blockchain-based applications continue to grow in popularity in the FinTech sector. Blockchain is used to transfer and receive mobile money payments and record cryptocurrency transactions. Through their [Coins.ph ](https://coins.ph/)mobile money app, Coins, a fintech company based in Southeast Asia, uses blockchain to provide 10 million customers access to digital payments, remittances, and cryptocurrencies. Coins.ph users can simultaneously avoid remittance service fees and time-delayed cash transfers while engaging their communities via mobile phones. In Kenya, a business-to-business mobile money platform called [BitPesa](https://www.coindesk.com/company/bitpesa) uses blockchain to improve cross-border lending and mitigate exchange risks between African markets. Further, [El Salvador](https://www.forbes.com/sites/lawrencewintermeyer/2021/08/05/could-developing-nations-follow-el-salvadors-move-to-bitcoin/?sh=11b42c528b70) became the first-ever country to adopt Bitcoin as legal tender to increase citizens' ability to collect remittances at zero cost.
+
+Blockchain-based applications can also provide formal identification (ID) to the [40 percent of individuals](https://documents1.worldbank.org/curated/en/953621531854471275/Global-ID-Coverage-Barriers-and-Use-by-the-Numbers-Insights-from-the-ID4D-Findex-Survey.pdf) in low-income countries without ID. In low- and middle-income countries, obtaining a physical ID can be time-consuming and laborious for citizens. Barriers accessing IDs restrict citizens from the financial sector. However, digital ID programs accessible through mobile devices or biometrics use blockchain to securely store private or sensitive information onto a decentralized ledger. In Sierra Leone, [the National Digital Identity Platform (NDIP) uses the Kiva Protocol](https://www.kiva.org/blog/kivas-next-frontier-kiva-protocol), Africa's first public blockchain, to provide Sierra Leone's unbanked population with a secure identification number via their thumbprint. The platform uses blockchain to anonymously record each financial transaction, helping unbanked individuals develop a credit history for future loans. The World Food Program also uses blockchain to augment its digital ID program and improve financial inclusion. The [Building Blocks](https://innovation.wfp.org/project/building-blocks) platform uses blockchain to deploy smart contracts which directly transfer cash assistance to Syrian refugees in Jordan. The program empowers beneficiaries to use the funds as desired and provides ID and transparent cash transfers.
+
+![blockchain-3019120_1920.png](/uploads/blockchain-3019120_1920.png)`Image by Tumisu from Pixabay`
+
+## Digital Government
+
+As the push for digital government (or "e-governance") continues to rise in emerging markets, blockchain will be critical for ensuring information security and data privacy. Estonia, where [99% of public services](https://www.pwc.com/gx/en/services/legal/tech/assets/estonia-the-digital-republic-secured-by-blockchain.pdf) are available as e-services, is a leading nation in e-governance and blockchain. The country successfully digitized public services such as voting, tax collection, and land records through blockchain-based platforms that instantly verify and upload information. Such uses make public services more efficient and can improve social accountability by making the government more transparent.
+
+## Supply Chain Management
+
+Blockchain's immutable and precise record-keeping can be found throughout supply chain innovations. The agricultural sector commonly incorporates blockchain to comprehensively identify agricultural inputs throughout the value chain. Blockchain improves transparency in the supply chain between parties, reducing information asymmetries and lowering transaction costs —helping smallholder farmers to receive fair compensation. For example, in Fiji, [TraSeable](https://www.traseable.com/about/) is a local start-up providing fisheries and farmers with blockchain-ready software that relies on Internet of Things technology to verify a product's end-to-end journey through the value chain. By linking blockchain with other digital technologies like sensors and mobile phones, the technology works holistically and helps consumers and regulators better understand food's journey. Blockchain's immutable record also makes the technology valuable to combat counterfeit products. For instance, the [Government of Maharashtra in India uses an Ethereum Blockchain](https://www.businessinsider.in/cryptocurrency/news/maharashtra-karnataka-and-telangana-plan-to-use-ethereum-in-their-fight-against-fake-degrees/articleshow/84823688.cms) to prevent academic fraud, and the [MediLedger Network](https://www.mediledger.com/) uses blockchain to combat counterfeit pharmaceuticals.
+
+## Is the Hype Sustainable?
+
+Is the international development community at the point where blockchain will reinvent the sector and our daily lives? Personally, I'm unconvinced. While blockchain's use cases have become more widespread, most applications are still pilot projects and face scalability issues. Technological limitations like [larger environmental footprint](https://www.nature.com/articles/s41467-021-22256-3) and [slower transaction speeds](https://towardsdatascience.com/the-blockchain-scalability-problem-the-race-for-visa-like-transaction-speed-5cce48f9d44) are just some of the complex barriers. International financial institutions such as the World Bank and government regulators remain skeptical about cryptocurrencies, [often citing transparency and environmental concerns](https://www.bbc.com/news/business-57507386) as limiting their uptake in emerging markets. And while blockchain can revolutionize supply chains, the technology will only add value when the data individuals add to a blockchain is correct and consistent.
+
+Most importantly, for blockchain-backed programs to improve life in developing countries, digital access, affordability, and literacy will have to be more readily available to ensure this technology does not widen existing inequalities. Blockchain certainly does hold promise and could revolutionize the future, but for now, this technology likely has not passed the hype cycle's peak and is still years off from large-scale uptake in the development sector.

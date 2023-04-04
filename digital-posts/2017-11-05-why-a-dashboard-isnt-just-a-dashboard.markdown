@@ -1,0 +1,25 @@
+---
+title: Why a Dashboard Isn’t Just a Dashboard
+date: 2017-11-05 14:18:00 -05:00
+tags:
+- Data
+Author: Karim Bin-Humam
+social-image: "/uploads/dashboards.png"
+thumbnail: "/uploads/dashboards.png"
+---
+
+I distinctly remember an early conversation with colleagues when I began working in digital development in which a peer dismissively waved his hand at the idea of implementing a live data dashboard, saying “A dashboard is a dashboard is a dashboard!” The finality of that line stuck with me. I assumed that the dismissal came from a person who was bored with dashboards, like a kid who opens a birthday present to find he has received yet ANOTHER dashboard. Well, interactive data dashboards—just like automobile dashboards—may not be the newest, hottest, shiniest thing in the ICT4D toolbox, but they’re still important and their often hidden values go unappreciated by many.
+
+![dashboards-81776e](/uploads/dashboards.png)
+
+<!--more-->
+
+Everyone knows by now that data is the new oil (as we said in [previous posts](https://dai-global-digital.com/tags/?tag=data-management-series))—a resource of stupendous potential. Most of us have seen visualizations from the mundane to the eye-popping and have heard phrases like “bring your data to life” and “tell vivid stories.” But being able to SEE how many people attended trainings we held in 2015 in bright colors is only the tip of the iceberg when it comes to what dashboarding can do for a project. That’s why I thought I would sum up a few of the lesser-known, behind-the-scenes benefits of building live data dashboards:
+
+**1. They force everyone to focus on a project’s data.** For most project staff, data is the purview of the monitoring and evaluation (M&E) geek and the statistician (if your project is fortunate enough to have them). But the truth is that the more people— including technical leads and managers—understand why your project designs indicators and structures data the way it does (to be able to compare data across technical areas, or to be able to generate a specific type of visual for instance), the more harmonized the entire project becomes, and the more every single staff member knows how activities can be captured to form a comprehensive narrative of your project’s work.
+
+**2. They allow you to see through your data instead of past it.** OK, what the heck does that mean? In short, interactive digital dashboards allow you to navigate and explore your data to be able to uncover the truths behind it. Your dashboard is showing that your project created three times as many jobs this year than last year? That’s a pretty huge jump! How can that be? What if you simply clicked a button that allowed you to see which value chains you were supporting in each year, uncovering the fact that this past year you were supporting far more labor-intensive value chains than in previous years? Data clarified, client satisfied.
+
+**3. Combined with an operational plan, it reduces the amount of resources required for reporting.** You probably know the story. It’s the end of the third quarter and you (or someone less fortunate than you) is running around frantically, calling up everyone who ever received grant funding from your project, trying desperately to get their latest numbers. Technical leads are passing you pages of information and emails with a data point here and a data point there. One of the emails reads: “6,000 units of green onions sold.” The other reads: “6,000 batches of green onions sold.” Which is right? You don’t have time to track this down, the report is due tomorrow! The process of developing a digital data dashboard requires the clarification of these kinds of issues up front so that you know exactly what data you SHOULD be receiving. Live dashboards also let you input data consistently and update automatically, so that you don’t have to wait until all of your data is in to craft your story with visuals, scrambling to scrounge numbers together under pressure and driving your peers up the wall begging them for clarifications!
+
+**4. They raise questions and help you find errors at the right time.** This is perhaps the most striking point to me. Having worked with projects that were midway through visualizing their data, it is shocking how many errors a few thousand lines of data can contain, and how hard those are to find when it all looks like one big grid of numbers. The typical project reaction is, “Wait...we did fine without seeing those errors until now, why go turning over rocks?” Well, wouldn’t you rather discover those errors early so you can correct them before reporting? Or would you rather your client send you an email at 2 a.m. wondering if you are cooking the books simply because of a clerical error made by a poor M&E specialist frantically entering data at 2 a.m.? I thought so.

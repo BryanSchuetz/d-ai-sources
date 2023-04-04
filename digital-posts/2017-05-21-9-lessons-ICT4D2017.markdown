@@ -1,0 +1,30 @@
+---
+title: 9 Lessons on Digital Design from ICT4D 2017 in Hyderabad
+date: 2017-05-21 07:00:00 -04:00
+tags:
+- Digital Principles
+Author: Adam Fivenson
+thumbnail: "/uploads/yes.JPG"
+---
+
+I spent the last week at the [2017 ICT4D conference in Hyderabad](https://2017ict4dconference.sched.com/), a four-day feast of presentations, discussions, and panels on how international development organizations are using new technologies in their work overseas.
+
+![yes.JPG](/uploads/yes.JPG)
+
+<!--more-->
+
+DAI hosted a trio of panels, the first on [mobile data collection](http://sched.co/AIQu), the second on [growing access to digital technologies](http://sched.co/AIRP) at the local level, and the third on [funding for social pitches](http://sched.co/AIUb), and attended at least a hundred panels between the four of us who went. My big takeaway was **the importance of good digital design in ICT for international development**, and thankfully there were a series of sessions that featured (either implicitly or explicitly) concrete lessons for designers. Here they are:
+
+1. Plan International’s [Bo Percival](https://2017ict4dconference.sched.com/bo_percival) presented a [solar-powered media backpack](https://vimeo.com/148598914), a rugged, portable, multimedia center with camera, projector, and more, designed for remote settings. Modeling ICT4D best practices, Bo and the team are designing the backpack to be ***open source***, so others can reuse, adapt, and improve their concept in other parts of the world.
+2. [Carolyn Florey](https://www.linkedin.com/in/carolynf/) from the Digital Impact Alliance (DIAL) held a [feedback session](http://sched.co/AIR4) for DIAL’s upcoming Principles for Digital Development toolkit. Carolyn and DIAL are modeling the 9 Principles well by ***involving their intended users in the design*** of the toolkit.
+3. [Dr. Justin Greenough](https://2017ict4dconference.sched.com/speaker/jgreenough) featured [Vanu’s](http://www.vanu.com/) new solar-powered, briefcase-sized mobile network base station, the [CompactRAN](http://www.vanu.com/products/outdoor/compactran/). Vanu is piloting the tool in both Vermont and Rwanda, on hilly terrain that’s typically very difficult for traditional cell towers to cover due to the high cost of each tower. Vanu’s tool is being ***designed for scale***.
+4. [Karl Lowe](https://www.linkedin.com/in/karlmlowe/) from Catholic Relief Services moderated a panel on the importance of [data privacy and security](http://sched.co/AE35) in international development. The panel highlighted the fact that while it’s easy to collect data from beneficiaries, we need only remember the Golden Rule—do unto others as you would have them to do you—to understand the importance of ***protecting the private information and security*** of the people we seek to help.
+5. [CGIAR](http://www.cgiar.org/), a global agricultural research partnership, hosted a launch event for their new [big data platform](http://bigdata.cgiar.org/), which is designed to bring organizations together to collect, analyze, and use massive amounts of agricultural data. The effort behind designing and launching the new platform emphasizes the need for international development practitioners of all stripes to ***be data driven***. Given the distance at which we often operate from our beneficiaries, the importance of making data-driven decisions takes on additional importance.
+6. Dalberg’s [Nirat Bhatnagar](https://www.linkedin.com/in/nirat/?ppe=1) hosted a session on user-centric design for digital financial services, one of  Dalberg’s focus areas. Nirat discussed how ***understanding the ecosystem*** in which a designer’s intended users exist is key to whether those users will adopt a new tool or technology.
+7. [Vera Solutions’](http://www.verasolutions.org/) [Aleksa Krolls](https://2017ict4dconference.sched.com/speaker/aleksa1) hosted a panel on the digital design process and what Vera has learned by executing it alongside more than 195 partner organizations around the world. Aleksa made the point that while Vera does design new technologies, its primary recommendation is to ***reuse and improve*** tools that already exist, such as Salesforce, which Vera often implements for its clients.
+8. One of the most popular sessions at the entire conference was hosted by Dimagi’s [Anthony Connor](https://www.dimagi.com/team/usa/anthony-connor/), and highlighted various instances of successful implementation of Dimagi’s core product: [CommCare](https://www.dimagi.com/products/). CommCare is one of the best known and most widely used digital data collection platforms for a number of reasons, but one of the most important is that [Dimagi](http://www.dimagi.com/) understands the importance of ***being collaborative***. Dimagi works closely with partners and clients throughout their design and implementation process.
+9. [Laeticia Klein](https://www.linkedin.com/in/laeticia-klein-19070269/?ppe=1) presented on Transparency International Kenya’s new [corruption reporting systems](http://sched.co/AITw). TI-Kenya’s first system is being developed in cooperation with the Kenyan ethics and Anti-Corruption Commission, the Commission on Administrative Justice, the Kenya National Commission on Human Rights, and the National Cohesion & Integration Commission. The second system focuses on corruption in the Human Rights Sector, and operates in collaboration with more than 50 state and non-state partners. According to Laeticia, TI-Kenya's close consultation with partners throughout the design process is an important part of ***building for sustainability.***
+
+If you want to learn more about digital design for international development, be sure to check out the [9 Principles for Digital Development](http://digitalprinciples.org/), which may bear some ***slight*** resemblance to the nine points above.
+
+*Have any lessons from your experience with digital design for international development? Let us know via [Facebook](http://www.facebook.com/DAIGlobal)!*

@@ -1,0 +1,43 @@
+---
+title: Building Digital Medical Records for Floating Villages in Cambodia
+date: 2019-10-10 06:00:00 -04:00
+tags:
+- Digital Health
+Author: "[Setha Rath](https://www.linkedin.com/in/setha-rath/)"
+social-image: "/uploads/TLC%20pic%201.png"
+thumbnail: "/uploads/TLC%20pic%201.png"
+---
+
+How do you digitize medical records in Cambodia when [your clinics are on a lake](https://www.youtube.com/watch?v=5DRZBiE6BTE), have minimal internet connectivity, and are four hours away from the nearest big city? Impossible, you say? Not quite. Let me introduce you to [the Lake Clinic](https://www.lakeclinic.org/) (TLC), a health clinic working to solve this complex challenge with the support of the six-year, [Development Innovations (DI)](https://www.development-innovations.org) project, funded by the U.S. Agency for International Development.
+
+<!--more-->
+
+TLC is the only health clinic in Cambodia that provides free medical care and outreach to people living in remote floating villages on Tonle Sap Lake. Every week, TLC staff travel four hours from their head office in Siem Reap City to a network of floating clinics, where they serve approximately 50 to 60 patients a day. Before they started working with DI in 2016, TLC used a paper-based system to manage and maintain patient information. This method left records vulnerable to damage from natural disasters, humidity, fire, and insects. And service delivery suffered, since having to write, organize, and transmit handwritten notes cut into the time clinicians could have been spending with their patients. Clearly, something had to change.
+
+![TLC pic 1.png](/uploads/TLC%20pic%201.png)`Floating villages on Tonle Sap Lake. Photo credit: Development Innovations staff.`
+
+So where to start? Unsurprisingly, finding strong partners was essential. TLC partnered with technology service provider [Mekom Solutions](https://mekomsolutions.com/) to digitize its patient management system with funding from DI. They worked together to customize a free and secure open source system called [Open Medical Record System (OpenMRS)](https://openmrs.org/) with technical inputs from a wide variety of stakeholders. Input came from several local and international healthcare professionals, other international development implementers, and—most critically—an ICT coordinator, otherwise known as a “tech whisperer.” This tech whisperer helped TLC communicate with Mekom developers about the clinicians’ requirements for the OpenMRS, essentially translating between the medical professionals at TLC and the technology professionals at Mekom.
+
+After extensive user testing with TLC staff in the floating clinics and several rounds of iteration on this tech tool, TLC and Mekom built a platform with a simple user interface that captures more useful information than the paper-based system ever did. Instead of simply having offline functionality, TLC’s OpenMRS system uses mobile hotspots to connect to the internet and upload the patient records.
+
+Since rolling out the customized OpenMRS platform at TLC clinics, more than 14 clinicians have used it to deliver outpatient services across five floating clinics in eight villages in Siem Reap and Kampong Thom Province. The system has recorded more than 5,000 patients who comprise 11,000 visits and 28,000 cases. And clinicians report that the platform saves at least five to 10 minutes of patients' time. Increased efficiency! Better record keeping!
+
+![TLC pic 2.png](/uploads/TLC%20pic%202.png)`A TLC medical doctor provides treatment using the OpenMRS Distribution for Cambodia. Photo credit: Development Innovations/Simeng Tim.`
+
+So, what did the DI team learn from its experience with TLC?
+
+* **Employ a “tech whisperer” to bridge the communication gap.** Development organizations and nongovernmental groups often have trouble communicating with technologists about their project requirements. This usually happens because technologists often possess a limited understanding of development challenges and development organizations’ goals. They focus on technology solutions without fully understanding the problem or context. A tech whisperer can bridge that gap by simplifying tech talk and international development jargon. They can facilitate problem identification, brainstorm appropriate solutions, and train users on new tech solutions.
+
+* **Design the system to [meet the users’ needs](https://dai-global-digital.com/5-tips-for-doing-international-design-research.html).**  The project team should focus on [understanding the problems](https://dai-global-digital.com/app-ui.html) of their target users.  [Users should be engaged](https://dai-global-digital.com/nobody-cares-what-tech-you-use.html) through the [design and iteration process](https://www.development-innovations.org/blog/tips-tricks-design/) by testing prototypes and giving feedback. For example, feedback from the TLC staff let developers know that using the system to conduct a patient consultation screening was cumbersome and took too long. In response, the developers changed the form to reduce the number of clicks needed to advance and replace text entry questions with multiple choice selections. The system itself should incentivize usage. It should not increase the clinicians’ burden, but instead improve their quality of work so they actually want to use it.
+
+* **Use an [iterative process](https://dai-global-digital.com/cambodia-second-chance-fund.html) when developing the system.** Developing a digital tool does not happen overnight. It takes time and effort to prototype, test, integrate feedback, and improve the system. In TLC’s case, the system was initially developed to work online. The design was based on the assumption that all floating clinics had good connectivity; however, when the first version of the system was rolled out, the team identified that two out of five clinics did not have stable connectivity. After many subsequent rounds of testing, the combined TLC and Mekom team finally found an appropriate solution to the connectivity challenge. The process of assessing the the target users' pain points, [exploring potential solutions](https://dai-global-digital.com/lean-design-for-development-a-practical-approach-to-human-centered-design.html), prototyping, and testing and iterating multiple times can help ensure that the proposed system meets the needs of the users.
+
+* **Consider confidentiality and [user privacy](https://dai-global-digital.com/beyond-good-intentions-a-human-centred-approach-to-privacy-rights.html).** OpenMRS is used to record patients’ personal information as well as medical histories and keeps that information confidential and used only for the intended purpose. Not all Cambodian citizens have a strong understanding of the importance of data confidentiality. Clinics seeking to customize OpenMRS in the future will need to consider not only patients’ privacy and data security, but also ensure that both developers and, most importantly, implementers understand the need for patient protection and use the data responsibly.
+
+* **Conduct regular trainings for users.** No matter how user-friendly a system may be, regular training is necessary to ensure the system is used successfully. As the users, clinicians will need to understand the system as a whole and how it operates. This knowledge will enable them to identify problems as they arise and fix minor issues. Staff also need to be trained on new features as the system adapts. Training is especially important at TLC clinics due to the fact that they have volunteers who regularly cycle in and out.
+
+This example of TLC's and Mekom's efforts to digitize medical records illustrates the importance of starting small, [designing with the user in mind](https://www.development-innovations.org/blog/why-do-we-care-about-user-research/), iterating on tech prototypes, and working with skilled professionals who can bridge the gap between technology and international development. We encourage all development practitioners working in technology to take these lessons learned to improve their programming and design more effective tech tools.
+
+Download DI’s full case study [here](https://www.development-innovations.org/wp-content/uploads/2019/09/TLC-Case-Study.pdf).
+
+*Setha Rath is a lead for Grab for Business based in Phnom Penh, Cambodia. She served as a senior innovations program manager from 2018 to 2019 on the USAID-funded Development Innovations Project. She holds a master's degree in development studies with a focus on gender and development from the University of Melbourne.*

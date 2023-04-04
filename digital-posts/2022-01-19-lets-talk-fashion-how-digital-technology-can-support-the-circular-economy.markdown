@@ -1,0 +1,47 @@
+---
+title: 'Let’s Talk Fashion: How Digital Technology Can Support the Circular Economy'
+date: 2022-01-19 23:33:00 -05:00
+tags:
+- Climate
+- Machine Learning
+- Digital Identity
+- AI
+- Digital Transformation
+- E-Commerce
+- Digital Economy
+Author: Afua Owusu
+social-image: "/uploads/francois-le-nguyen-pouTfHUG430-unsplash-f63dbf.jpg"
+thumbnail: "/uploads/francois-le-nguyen-pouTfHUG430-unsplash-f63dbf.jpg"
+---
+
+The fashion industry drives a significant part of the global economy. Valued north of [$3 trillion](https://digitalcommons.uri.edu/cgi/viewcontent.cgi?article=1026&context=mgdr), the fashion business—defined by the [United Nations Alliance](https://unfashionalliance.org/) as clothing, leather, and footwear—accounts for 2 percent of the world’s gross domestic product. The sector responsible for employing more than 300 million people worldwide—many of whom are women—and providing goods indispensable to human welfare is also responsible for around 8 to 10 percent of [carbon emissions](https://www.researchgate.net/publication/340635670_The_environmental_price_of_fast_fashion), nearly 20 percent of global [wastewater production](https://news.un.org/en/story/2019/03/1035161), and about 9 percent of microplastic [losses](https://www.fashionrevolution.org/our-clothes-shed-microfibres-heres-what-we-can-do/) to the ocean annually. The [circular economy in design](https://ellenmacarthurfoundation.org/topics/circular-economy-introduction/overview) that tackles climate change and biodiversity loss is based on three principles: eliminate, circulate, and regenerate. Although retail companies have increased their sustainable investments over the past five years, the progression remains slow in shifting to transparent and sustainable fashion standards.
+
+While climate change threatens all populations, communities in low- and middle-income countries feel its impact first and worst. The onset of the COVID-19 crisis has powered global eco-awakenings; consumers are now, more than ever, urging fashion players to be more socially and environmentally responsible through all stages of the fashion production life cycle. While far from the target of taking urgent action to combat climate change and its impacts, digital technologies offer innovative solutions to tackling climate change.
+
+![francois-le-nguyen-pouTfHUG430-unsplash-f63dbf.jpg](/uploads/francois-le-nguyen-pouTfHUG430-unsplash-f63dbf.jpg)`Photo: Francois Le Nguyen/Unsplash.`
+
+<!--more-->
+
+## Algorithmic Fashion: Leveraging Artificial Intelligence
+
+Return rates are rapidly [skyrocketing](https://www.shopify.com/enterprise/ecommerce-returns#:\~:text=The%20Plague%20of%20Ecommerce%20Return%20Rates%20and%20How%20to%20Maintain%20Profitability&text=Collectively%2C%20consumers%20returned%20products%20worth,returns%20amounts%20to%20%24101%20billion.) as more people join the [e-commerce](https://dai-global-digital.com/the-hidden-costs-of-online-shopping.html?utm_source=related-box) space; almost 30 percent of the world’s population consists of [digital buyers](https://www.statista.com/statistics/251666/number-of-digital-buyers-worldwide/). In e-commerce environments, consumers are more likely to order multiple sizes, colors, and patterns of items to pick the best fit or purchase items only to try on without the intention of keeping them. Returned packages leave emission trails from trucks, planes, and even boats that bring things back to the seller or are rerouted to a landfill due to high processing costs.
+
+Software offers a process through which companies can reduce shipping emissions. For example, by tools that determine whether garments fit through size recommendation tools such as virtual dressing rooms and mobile body scanning. [EyeFitU](https://www.eyefitu.com/), a Switzerland startup, developed a size-engine software system for clothes and footwear that uses the specifics of participating retailers and consumers to recommend the best possible fit for shoppers. Projects such as [Algorithmic Couture](https://www.synflux.io/projects/algorithmic-couture-alpha) use 3-D scanning technology and computer-aided design software to automate the creation of zero-waste fashion patterns and digitize haute couture techniques.
+
+According to a [report](https://www.mckinsey.com/\~/media/mckinsey/industries/semiconductors/our%20insights/smartening%20up%20with%20artificial%20intelligence/smartening-up-with-artificial-intelligence.ashx) published by McKinsey, artificial intelligence (AI) can reduce forecasting errors between 20 and 50 percent and decrease lost sales by up to 65 percent. Companies can practice just-in-time manufacturing (JIT) [models](https://devmesh.intel.com/projects/predicting-order-lead-time-for-just-in-time-production-system-using-various-machine-learning-algorithms-a-case-study) with AI-enabled supply chains and machine learning to provide optimal methods for streamlining production. Unlike traditional manufacturing, JIT eliminates unnecessary raw material, inventory storage, and production costs, resulting in reduced overproduction, waste elimination, better supply chain control, and more. Telfar, the accessible luxury fashion brand, is just one of the few companies spearheading [sustainable fashion democracy.](https://www.businessinsider.com/telfars-bag-security-program-is-the-new-white-glove-treatment-2021-4#:\~:text=So%2C%20last%20summer%2C%20Telfar%20introduced,shipped%20directly%20to%20the%20customer.) The brand announced its innovative Bag Security Program, allowing consumers to pre-order unlimited made-to-order handbags without a return option. The brand enlisted Captcha tests to deter automated hackers from preventing stockpiling from automated bots. The made-to-order service eliminates the possibilities of mass wastage and reduces demand amplification while analyzing consumer data to predict inventory levels.
+
+## Sheer Fashion: Blockchain for Transparency
+
+Transparency and traceability in the supply chain are foundational for achieving sustainable, accountable, and fair fashion standards. According to the [Fashion Transparency Index 2021](https://www.fashionrevolution.org/about/transparency/), 250 of the world's largest fashion brands average an overall score of 23 percent in transparency—20 major brands scored a 0 percent rating. And with only 14 percent of brands disclosing the number of products annually, it is difficult to unravel the depths of fashion's overproduction problem.
+
+![gabriel-mccallin-ejpIV88QXEc-unsplash-166582.jpg](/uploads/gabriel-mccallin-ejpIV88QXEc-unsplash-166582.jpg)`Photo: Gabriel McCallin/Unsplash.`
+
+Blockchain can improve retailers' supply chain traceability while offering increased transparency through a unique digital identity that lives with an individual garment throughout its life cycle. During manufacturing, suppliers can use blockchain as a memory bank to store permanent, immutable digital records of all materials used in production—from how raw materials are grown and stored to even the amount of raw materials shipped to textile mills and the number of items that material made. With just a QR code or near-field technology chip, customers can access the entire life cycle of individual garments to make educated decisions on where to invest their dollars. The first garment to be tracked [using blockchain technology](https://thecurrentdaily.com/2018/07/10/martine-jarlgaard-blockchain-can-redefine-fashion/) was a jumper made by Danish designer Martine Jarlgaard in 2018 as a result of a partnership between A Transparent Company, Provenance, and London College of Fashion Innovation. Since then, many fashion players have explored blockchain-powered supply chain transparency.
+
+[Circular.Fashion](https://circular.fashion/en/), a design agency and the recipient of the Global Change Award by the H&M Foundation in 2019, piloted the Loop Scoop—a digital system that encourages designers to create with recyclable intent by specifying how each garment choice of material, cut, and production affects the planet. The specifications are then saved in circularity.ID, which allows consumers to access information on the best ways to sustainability dispose, reuse, or update their fashion once done with the garment. Big-name corporations such as H&M and Target are in [partnership](https://www.voguebusiness.com/technology/circular-id-eon-sustainability-blockchain) with Microsoft and Waste Management to collaborate on CircularID to establish global fashion transparency and traceability standards.
+
+## Fashion Forward: Where Do We Go from Here?
+
+Digital technologies are an essential part of the solution in reshaping manufacturing models and improving product transparency to address the sectors role in climate change as the industry enters the "fourth industrial revolution." While technologies such as AI, blockchain, and even big data can be beneficial in helping companies meet growing demands while also reducing their carbon footprint, executing these solutions on a global level may pose challenges, especially for low- and-middle income countries where thousands of people depend on the fashion industry for their livelihoods.
+
+Simultaneously, the sector's waste and pollution problems yield environmental exposures that disproportionally impact low- and middle-income countries. As fashion evolves and digital transformation accelerates, there is an emerging need for research in the digital development community that informs best practices for sustainable textile production and ethical consumption.
